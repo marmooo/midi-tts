@@ -1,4 +1,4 @@
-var CACHE_NAME = "2023-04-26 00:00";
+var CACHE_NAME = "2023-06-07 09:45";
 var urlsToCache = [
   "/midi-tts/",
   "/midi-tts/index.js",
