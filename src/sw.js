@@ -1,9 +1,9 @@
-var CACHE_NAME = "2023-06-24 10:16";
+var CACHE_NAME = "2023-07-12 10:10";
 var urlsToCache = [
   "/midi-tts/",
   "/midi-tts/index.js",
   "/midi-tts/mora.lst",
-  "/midi-tts/Ritsu_0.0.2.sf3",
+  "/midi-tts/Ritsu_v0.0.2.sf3",
   "/midi-tts/favicon/favicon.svg",
   "https://cdn.jsdelivr.net/npm/midi-writer-js@2.1.4/browser/midiwriter.min.js",
   "https://cdn.jsdelivr.net/npm/js-synthesizer@1.8.5/dist/js-synthesizer.min.js",
